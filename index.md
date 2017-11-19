@@ -1,9 +1,3 @@
----
-theme : "Solarized"
-transition: "slide"
-highlightTheme: "darkula"
----
-
 <div align="left">
   <small>
   Wacker #21
@@ -12,7 +6,7 @@ highlightTheme: "darkula"
 
 <br>
 
-# いまさらDOAでDB設計をやってみる
+## いまさらDOAでDB設計をやってみる
 
 <br>
 
